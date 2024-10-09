@@ -19,7 +19,7 @@ The dataset used for the analysis contains sales transaction records from an onl
 - Power BI for data visualization.
 
 ## Data cleaning
-using Microsoft Excel, I cleaned my dataset by:
+Using Microsoft Excel, I cleaned my dataset by:
 
 - Handling Missing Values
 - Removing Duplicates
@@ -41,7 +41,7 @@ This section includes SQL queries used to analyze the Supermarket Sales dataset.
 
 ## Findings
 sales overview
-- **Total Sales:** 9.75M
+- Total Sales: 9.75M
 
 
 
