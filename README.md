@@ -42,17 +42,24 @@ This section includes SQL queries used to analyze the Supermarket Sales dataset.
 ## Findings
 Sales Overview
 - **Total Sales:** 9.75M
-Total Quantity Sold: 5M
+- *Average Unit Price:* 4.61
+- *Total Quantity Sold:* 5M
+- *Total Number of Customers:* 4373
 
 
-Top 5 Products
+## Top 5 Products by Stockcode
+- *DOT:*688
+- *M:*411
+- *22197:*171
+- *POST:*167
+- *22355:*135
 
-
-
-
-
-
-Least products
+## Bottom 5 products by Stockcode
+- *10123G:* 1
+- *10134:*1
+- *16053:*1
+- *16161M:*1
+- *16169N:*1
 
 
 
