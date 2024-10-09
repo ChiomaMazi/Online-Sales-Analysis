@@ -40,8 +40,8 @@ This section includes SQL queries used to analyze the Supermarket Sales dataset.
 - Which customers contributed the most to total sales?
 
 ## Findings
-sales overview
-- Total Sales: 9.75M
+Sales Overview
+- **Total Sales:** 9.75M
 
 
 
