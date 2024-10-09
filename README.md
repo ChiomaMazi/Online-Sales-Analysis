@@ -40,25 +40,26 @@ This section includes SQL queries used to analyze the Supermarket Sales dataset.
 - Which customers contributed the most to total sales?
 
 ## Findings
-Sales Overview
-- **Total Sales:** 9.75M
-- Average Unit Price:4.61
-- Total Quantity Sold: 5M
-- Total Number of Customers: 4373
 
-## Top 5 Products by Stockcode
-- DOT:688
-- M:411
-- 22197:171
-- POST:167
-- 22355:135
+### Sales Overview
+- *Total Sales:* 9.75M
+- *Average Unit Price:* 4.61
+- *Total Quantity Sold:* 5M
+- *Total Number of Customers:* 4373
 
-## Bottom 5 products by Stockcode
-- 10123G:1
-- 10134:1
-- 16053:1
-- 16161M:1
-- 16169N:1
+### Top 5 Products by Stockcode
+- *DOT:* 688
+- *M:* 411
+- *22197:* 171
+- *POST:* 167
+- *22355:* 135
+
+### Bottom 5 products by Stockcode
+- *10123G:* 1
+- *10134:* 1
+- *16053:* 1
+- *16161M:* 1
+- *16169N:* 1
 
 ## Conclusion 
 In the retail online sales analysis project, I  used Excel, SQL, and Power BI to analyze online retail sales data. Key insights include seasonal sales trends, revenue variations by country, and top products and customers. These findings support strategic decision-making for business growth and optimization.
