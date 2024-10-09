@@ -42,7 +42,7 @@ This section includes SQL queries used to analyze the Supermarket Sales dataset.
 ## Findings
 Sales Overview
 - **Total Sales:** 9.75M
-- Average Unit Price:*4.61
+- Average Unit Price:4.61
 - Total Quantity Sold: 5M
 - Total Number of Customers: 4373
 
