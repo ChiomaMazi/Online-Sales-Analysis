@@ -6,6 +6,12 @@ The project focuses on analyzing sales data to uncover trends, customer behavior
 ## Data source 
 The dataset used for the analysis contains sales transaction records from an online retail store. It includes eight key columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, Unit Price, CustomerID, and Country. This data captures information on customer purchases, product details, transaction dates, pricing, and the geographic location of customers.
 
+## Insights
+- Total Sales: The total sales amount indicates overall business performance and market presence.
+- Revenue by Country: Revenue varies significantly by country, suggesting opportunities for targeted marketing and sales strategies.
+- Top Products: Identifying top-selling products can guide inventory and promotional strategies.
+- Customer Contributions: Understanding customer contributions can help in designing loyalty programs and enhancing customer relations.
+  
 ## Tools Used:
 
 - Excel for data cleaning.
@@ -33,13 +39,9 @@ This section includes SQL queries used to analyze the Supermarket Sales dataset.
 - Which products have the highest number of transactions?
 - Which customers contributed the most to total sales?
 
-## Insights
-- Total Sales: The total sales amount indicates overall business performance and market presence.
-- Revenue by Country: Revenue varies significantly by country, suggesting opportunities for targeted marketing and sales strategies.
-- Top Products: Identifying top-selling products can guide inventory and promotional strategies.
-- Customer Contributions: Understanding customer contributions can help in designing loyalty programs and enhancing customer relations.
-
-
+## Findings
+sales overview
+- **Total Sales:** 9.75M
 
 
 
