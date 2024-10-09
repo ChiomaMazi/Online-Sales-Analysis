@@ -42,8 +42,17 @@ This section includes SQL queries used to analyze the Supermarket Sales dataset.
 ## Findings
 Sales Overview
 - **Total Sales:** 9.75M
+Total Quantity Sold: 5M
 
 
+Top 5 Products
+
+
+
+
+
+
+Least products
 
 
 
